@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Sven, front-end developer
-- 🌱 I'm 23 from Germany 
-- :atom_symbol: I'm currently learning React JS
+- 🌱 23 from Germany 
+- :atom_symbol: currently learning React JS
 
 
 
