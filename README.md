@@ -1,5 +1,7 @@
 - 👋 Hi, I'm Sven, front-end developer
-- :grinning:
+- 🌱 I'm 23 from Germany 
+- :atom_symbol: I'm currently learning React JS
+
 
 
 <!--
