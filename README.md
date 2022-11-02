@@ -7,6 +7,6 @@
 ![Top Langs]
 
 <p align = "center">
-  <img src = "(https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=material-palenight&hide_border=true)" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=vue-dark&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=svenrisse&theme=vue-dark&hide_border=true" width = 400>
 </p>
