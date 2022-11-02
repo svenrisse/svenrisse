@@ -2,7 +2,6 @@
 - 🌱 23 from Germany 
 - :atom_symbol: currently learning React JS
 
-![](https://komarev.com/ghpvc/?username=svenrisse)
 ---
 
 <p align = "center">
