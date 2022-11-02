@@ -3,7 +3,7 @@
 - :atom_symbol: currently learning React JS
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=material-palenight&hide_border=true)
 <!--
 **svenrisse/svenrisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
