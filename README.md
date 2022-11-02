@@ -5,6 +5,6 @@
 ---
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=transparent&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=svenrisse&theme=vue-dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=svenrisse&theme=react&hide_border=true" width = 400>
 </p>
