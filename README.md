@@ -4,7 +4,7 @@
 
 --- 
 
-Technologies I work with: 
+Tech stack:
 
 <!---
 https://github.com/Ileriayo/markdown-badges
