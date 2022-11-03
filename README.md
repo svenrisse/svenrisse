@@ -2,6 +2,8 @@
 - 🌱 23 from Germany 
 - :atom_symbol: currently improving my knowledge of react.js and typescript
 
+--- 
+
 Tech:
 <!---
 https://github.com/Ileriayo/markdown-badges
