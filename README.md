@@ -4,7 +4,8 @@
 
 --- 
 
-Tech:
+Technologies I work with: 
+
 <!---
 https://github.com/Ileriayo/markdown-badges
 -->
