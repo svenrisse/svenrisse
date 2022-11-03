@@ -3,6 +3,9 @@
 - :atom_symbol: currently improving my knowledge of react.js and typescript
 
 Tech:
+<!---
+https://github.com/Ileriayo/markdown-badges
+-->
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
