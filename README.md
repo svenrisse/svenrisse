@@ -22,7 +22,6 @@ https://github.com/Ileriayo/markdown-badges
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true" width = 400>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact)&theme=react&hide_border=true](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=buefy&hide_border=true" /></a>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=svenrisse&theme=react&hide_border=true" width = 400>
 </p>
