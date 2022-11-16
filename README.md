@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Sven, aspiring full-stack webdev
 - 🌱 23 from Germany 
-- :atom_symbol: currently improving my knowledge of react.js and typescript
+- :mortar_board: currently learning Vue.js and Nuxt
 
 --- 
 
