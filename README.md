@@ -18,6 +18,7 @@ https://github.com/Ileriayo/markdown-badges
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=orange)
 
+[![My Skills](https://skillicons.dev/icons?i=linux,git,html,css,js,ts,vue,nuxtjs,react,vite,firebase)](https://skillicons.dev)
 ---
 
 <p align = "center">
