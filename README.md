@@ -2,7 +2,7 @@
 - 🌱 23 from Germany 
 - :mortar_board: currently learning Vue.js and Nuxt
 
-Find out more on [srisse.dev](www.srisse.dev)
+Find out more on [srisse.dev](https://www.srisse.dev/)
 
 Contact me at **sven@srisse.dev**
 
