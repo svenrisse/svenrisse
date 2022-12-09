@@ -14,7 +14,7 @@ Tech stack:
 [https://github.com/Ileriayo/markdown-badges](https://github.com/tandpfun/skill-icons)
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,react,vite,sass,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,nodejs,vite,tailwind,sass)](https://skillicons.dev)
 ---
 
 <p align = "center">
