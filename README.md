@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Sven, aspiring full-stack webdev
 - 🌱 23 from Germany 
-- :mortar_board: currently learning Vue.js and Nuxt
+- :mortar_board: currently learning Next.js
 
 Find out more on [srisse.dev](https://www.srisse.dev/)
 
