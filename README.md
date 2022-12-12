@@ -11,10 +11,10 @@ Contact me at **sven@srisse.dev**
 Tech stack:
 
 <!---
-[https://github.com/Ileriayo/markdown-badges](https://github.com/tandpfun/skill-icons)
+(https://github.com/tandpfun/skill-icons)
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,nodejs,vite,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,nextjs,vue,nuxtjs,nodejs,prisma,)](https://skillicons.dev)
 ---
 
 <p align = "center">
