@@ -5,8 +5,8 @@
 * 👨‍💻  Currently learning [Next.js](https://nextjs.org/), [tRPC](https://trpc.io/) and [Prisma](https://www.prisma.io/)
 * 🤝  TypeScript enthusiast
 * 🌍  Based in Germany 🇩🇪
-* 🖥️  Check out my portfolio at [srisse.dev](https://www.srisse.dev)
-* ✉️  Contact me at **sven@srisse.dev**
+* 🖥️  Check out my portfolio at [svenrisse.dev(https://www.svenrisse.dev/)
+* ✉️  Contact me at **sven@svenrisse.dev**
 
 ### My Tech Stack 
 <div style="display: flex;">
