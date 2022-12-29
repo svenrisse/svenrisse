@@ -21,6 +21,6 @@
 ### Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=vue-dark&hide_border=true&langs_count=10" height= 300 width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" height= 300 width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=svenrisse&theme=vue-dark&hide_border=true" height=300 width = 400>
 </p>
