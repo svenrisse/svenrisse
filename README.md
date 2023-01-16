@@ -20,4 +20,3 @@
 
 ### Stats
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true&langs_count=6" height= 300 width = 400>
-
