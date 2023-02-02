@@ -20,6 +20,6 @@
 
 ### Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true&langs_count=6"             height=400 width = 500>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=svenrisse&theme=react&hide_border=true" height=400 width = 500>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true&langs_count=6"             height=300 width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=svenrisse&theme=react&hide_border=true" height=300 width = 400>
 </p>
