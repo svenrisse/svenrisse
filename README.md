@@ -2,7 +2,7 @@
 
 ### Software Developer
 
-* 👨‍💻  Currently learning [Next.js](https://nextjs.org/), [tRPC](https://trpc.io/) and [Prisma](https://www.prisma.io/)
+* 👨‍💻  Currently learning [tRPC](https://trpc.io/) and [Prisma](https://www.prisma.io/)
 * 🤝  TypeScript enthusiast
 * 🌍  Based in Germany 🇩🇪
 * 🖥️  Check out my portfolio at [svenrisse.dev](https://www.svenrisse.dev/)
