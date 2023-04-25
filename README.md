@@ -22,3 +22,5 @@
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true&langs_count=10&hide=sass,shell&exclude_repo=EtchASketch,Sign-up-Form,odin-recipes,odin-landingpage,Calculator,Tic-Tac-Toe,Restaurant-Page,Library,AdminDashboard"             height=300 width = 400>
 
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=svenrisse&column=8&theme=onedark&no-frame=true"/>
