@@ -2,11 +2,11 @@
 
 ### Software Developer
 
-* 👨‍💻  Currently learning [tRPC](https://trpc.io/) and [Prisma](https://www.prisma.io/)
+* 👨‍💻  Currently learning React Server Components
 * 🤝  TypeScript enthusiast
 * 🌍  Based in Germany 🇩🇪
 * 🖥️  Check out my portfolio at [svenrisse.dev](https://www.svenrisse.dev/)
-* ✉️  Contact me at **sven@svenrisse.dev**
+* ✉️  Contact me at **svenrisse0@gmail.com**
 
 ### My Tech Stack 
 <div style="display: flex;">
