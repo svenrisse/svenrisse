@@ -6,7 +6,6 @@
 * 🤝  TypeScript enthusiast
 * 🌍  Based in Germany 🇩🇪
 * 🖥️  Check out my portfolio at [svenrisse.dev](https://www.svenrisse.dev/)
-* ✉️  Contact me at **svenrisse0@gmail.com**
 
 ### My Tech Stack 
 <div style="display: flex;">
