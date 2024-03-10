@@ -2,7 +2,7 @@
 
 ### Software Developer
 
-* 👨‍💻  Currently learning React Server Components
+* 👨‍💻  Currently learning Go
 * 🤝  TypeScript enthusiast
 * 🌍  Based in Germany 🇩🇪
 * 🖥️  Check out my portfolio at [svenrisse.dev](https://www.svenrisse.dev/)
