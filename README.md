@@ -19,5 +19,5 @@
 
 ### Stats
 
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true&langs_count=10&hide=sass,shell,smarty&exclude_repo=EtchASketch,Sign-up-Form,odin-recipes,odin-landingpage,Calculator,Tic-Tac-Toe,Restaurant-Page,Library,AdminDashboard"             height=300 width = 400>
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true&langs_count=10&hide=css,html,sass,scss,smarty,shell&exclude_repo=EtchASketch,Sign-up-Form,odin-recipes,odin-landingpage,Calculator,Tic-Tac-Toe,Restaurant-Page,Library,AdminDashboard"             height=300 width = 400>
 
