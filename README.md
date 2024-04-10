@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sven
 
-### Software Developer
+### Junior Fullstack Developer
 
 * 👨‍💻  Currently learning Go
 * 🤝  TypeScript enthusiast
