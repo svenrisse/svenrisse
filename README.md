@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Sven
 
-### Junior Fullstack Developer
+### Fullstack Developer
 
-* 👨‍💻  Currently learning Go
-* 🤝  TypeScript enthusiast
+* 👨‍💻  Currently loving Go
+* 🤝  Type safety enthusiast
 * 🌍  Based in Germany 🇩🇪
 * 🖥️  Check out my portfolio at [svenrisse.dev](https://www.svenrisse.dev/)
 
