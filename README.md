@@ -7,8 +7,6 @@
 * 🌍  Based in Germany 🇩🇪
 * 🖥️  Check out my portfolio at [svenrisse.dev](https://www.svenrisse.dev/)
 
-[![Top Langs](https://github-readme-stats-phi-three-51.vercel.app/api/top-langs/?username=svenrisse)](https://github.com/anuraghazra/github-readme-stats)
-
 ### My Tech Stack 
 <div style="display: flex;">
   <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="48" height="48" alt="Go" /></a>
@@ -22,5 +20,5 @@
 
 ### Stats
 
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true&langs_count=10&hide=makefile,css,html,sass,scss,smarty,shell&exclude_repo=EtchASketch,Sign-up-Form,odin-recipes,odin-landingpage,Calculator,Tic-Tac-Toe,Restaurant-Page,Library,AdminDashboard"             height=300 width = 400>
+ <img src = "https://github-readme-stats-phi-three-51.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true&langs_count=10&hide=liquid,php,blade,ejs,makefile,css,html,sass,scss,smarty,shell&exclude_repo=" height=300 width = 400>
 
