@@ -7,6 +7,8 @@
 * 🌍  Based in Germany 🇩🇪
 * 🖥️  Check out my portfolio at [svenrisse.dev](https://www.svenrisse.dev/)
 
+[![Top Langs](https://github-readme-stats-phi-three-51.vercel.app/api/top-langs/?username=svenrisse)](https://github.com/anuraghazra/github-readme-stats)
+
 ### My Tech Stack 
 <div style="display: flex;">
   <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="48" height="48" alt="Go" /></a>
