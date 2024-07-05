@@ -20,5 +20,5 @@
 
 ### Stats
 
- <img src = "https://github-readme-stats-phi-three-51.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true&langs_count=10&hide=liquid,php,blade,ejs,makefile,css,html,sass,scss,smarty,shell&exclude_repo=github-readme-stats" height=300 width = 400>
+ <img src = "https://github-readme-stats-phi-three-51.vercel.app/api/top-langs/?username=svenrisse&layout=compact&theme=react&hide_border=true&langs_count=10&hide=liquid,php,blade,ejs,makefile,css,html,sass,scss,smarty,shell,mdx&exclude_repo=github-readme-stats" height=300 width = 400>
 
